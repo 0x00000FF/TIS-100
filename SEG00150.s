@@ -1,0 +1,27 @@
+; SEGMENT 00150
+; SELF TEST DIAGNOSTIC
+; TOTAL CYCLE 83
+
+; Node 0
+MOV UP, DOWN
+
+; Node 2
+MOV RIGHT, DOWN
+
+; Node 3
+MOV UP, LEFT
+
+; Node 4
+MOV UP, DOWN
+
+; Node 6
+MOV UP, DOWN
+
+; Node 8
+MOV UP, DOWN
+
+; Node 10
+MOV UP, RIGHT
+
+; Node 11
+MOV LEFT, DOWN
